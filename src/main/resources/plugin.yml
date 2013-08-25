@@ -1,0 +1,6 @@
+name: Dynmap-SafeCity
+main: org.dynmap.safecity.DynmapSafeCityPlugin
+version: "${project.version}"
+author: mikeprimm
+depend: [ dynmap, SafeCity ]
+
